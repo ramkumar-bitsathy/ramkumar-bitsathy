@@ -19,3 +19,5 @@ Ramkumar, Pre Final Year student
 Machine Learning
 
 [![Ramkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramkumar-bitsathy&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/ramkumar-bitsathy/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramkumar-bitsathy&layout=compact)](https://github.com/ramkumar-bitsathy/github-readme-stats)
