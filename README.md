@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 Ramkumar, Pre Final Year student
 Machine Learning
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramkumar-bitsathy)
+[![Ramkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramkumar-bitsathy)](https://github.com/ramkumar-bitsathy/github-readme-stats)
