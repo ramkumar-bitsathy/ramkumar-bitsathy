@@ -5,9 +5,8 @@ A passionate Information Technology student from India.
 - 🌱 I’m currently learning **Audio Information Retrieval**, **Python Frameworks**, and **Dataset Preprocessing**.  
 - 🔭 I’m currently working on **Intelligent Data Cleaning and Adaptive Preprocessing**.  
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ramkumar-bitsathy).  
-- 📫 How to reach me **your-email@example.com**  
+- 📫 How to reach me **ramkumarkofficial@gmail.com**  
 - 💬 Ask me about **Python, Django, and Audio Processing**.  
-- 🌟 Fun fact: I love exploring the connection between audio and text-based AI!  
 
 ---
 
