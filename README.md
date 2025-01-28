@@ -33,11 +33,12 @@ A passionate Information Technology student from India.
 ## 📊 GitHub Stats:
 <div align="center">
   
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ramkumar-bitsathy&show_icons=true&theme=radical)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramkumar-bitsathy&layout=compact&theme=radical)
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ramkumar-bitsathy&show_icons=true&theme=radical)     ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramkumar-bitsathy&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramkumar-bitsathy&layout=compact&theme=radical)
+  
+
   
   
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramkumar-bitsathy&theme=radical)
   
 </div>
 
