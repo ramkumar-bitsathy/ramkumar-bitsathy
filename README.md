@@ -31,7 +31,7 @@ A passionate Information Technology student from India.
 ---
 
 ## 📊 GitHub Stats:
-<div align="center">
+<div align="left">
   
   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ramkumar-bitsathy&show_icons=true&theme=radical)
   
