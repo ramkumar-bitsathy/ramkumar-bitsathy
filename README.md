@@ -6,7 +6,7 @@ A passionate Information Technology student from India.
 - 🔭 I’m currently working on **Intelligent Data Cleaning and Adaptive Preprocessing**.  
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ramkumar-bitsathy).  
 - 📫 How to reach me **ramkumarkofficial@gmail.com**  
-- 💬 Ask me about **Python, Django, and Audio Processing**.  
+
 
 ---
 
