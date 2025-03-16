@@ -30,18 +30,15 @@ A passionate Information Technology student from India.
 ---
 
 ## 📊 GitHub Stats:
-<div align="center">
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramkumar-bitsathy&" alt="ramkumar-bitsathy" /></p>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramkumar-bitsathy&layout=compact&theme=radical)
-  
 
-  
-  
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramkumar-bitsathy&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com/?user=ramkumar-bitsathy&theme=radical&hide_border=true" width="48%" alt="GitHub Streak">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramkumar-bitsathy&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages">
 </div>
 
 
-
-
-⭐️ *"Even a small step counts!"*
+⭐️ *"Small steps counts toos!"*
