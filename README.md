@@ -29,6 +29,8 @@ A passionate Information Technology student from India.
 
 ---
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="82a2c93b-d961-461b-a6ee-ecb3898451fb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## 📊 GitHub Stats:
 
 <div align="center">
